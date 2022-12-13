@@ -17,17 +17,17 @@
 ## Screenshots
 
 **Task 1:**
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/jQuery/images/jquery-task1.jpg)
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/jQuery/images/jquery-task1.1.jpg)
 
 **Task 2:**
-![App Screenshot]()
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/jQuery/images/jquery-task2.jpg)
 
 **Task 3:**
-![App Screenshot]()
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/jQuery/images/jquery-task3.jpg)
 
 **Task 4:**
-![App Screenshot]()
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/jQuery/images/jquery-task4.jpg)
 
 **Task 5:**
-![App Screenshot]()
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/jQuery/images/jquery-task5.jpg)
