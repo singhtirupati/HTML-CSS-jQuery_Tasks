@@ -12,4 +12,4 @@
 ![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/CSS/CSS%20Advance/images/css-adv-task1.jpg)
 
 **Task 2:**
-![App Screenshot]()
+![App Screenshot](https://github.com/singhtirupati/HTML-CSS-jQuery_Tasks/blob/main/CSS/CSS%20Advance/images/css-adv-task2.jpg)
