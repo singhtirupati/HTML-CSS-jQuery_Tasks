@@ -78,12 +78,12 @@ div {
     position: relative;
 }
 
-.banner-wrap {
+/* .banner-wrap {
     position: absolute;
     top: 35%;
     width: 100%;
     text-align: center;
-}
+} */
 
 .banner-wrap img {
     display: block;
@@ -91,20 +91,28 @@ div {
 
 .b1, .b2, .b3 {
     display: inline-block;
+    position: absolute;
+    top: 35%;
 }
 
 .b1 {
     float: left;
+    left: 0;
 }
 
 .b3 {
     float: right;
+    right: 0;
+}
+
+.b2 {
+    left: 40%;
 }
 
 .arrow {
     height: 50px;
     width: 50px;
-    padding-top: 8px;
+/*     padding-top: 8px; */
 }
 /* Banner end */
 
