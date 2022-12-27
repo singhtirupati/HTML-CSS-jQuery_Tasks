@@ -17,8 +17,9 @@ div {
 }
 
 .wrapper {
-    margin: 0 15%;
     height: 100%;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 /* Header start */
